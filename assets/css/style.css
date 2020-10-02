@@ -7,3 +7,11 @@
 #bold{
     font-weight: bold;
 }
+
+p.b {
+    font-style: italic;
+}
+
+div.b {
+    font-size: large;
+}
